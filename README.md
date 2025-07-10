@@ -30,11 +30,7 @@ I enjoy solving challenging problems, collaborating with creative minds, and con
 
 ## Notable Projects
 
-- **[Project Alpha](https://github.com/ayoub-ld/project-alpha):** A cutting-edge platform that leverages machine learning for predictive analytics. 🤖
-- **[Project Beta](https://github.com/ayoub-ld/project-beta):** A web application built with modern JavaScript frameworks and cloud-native technologies. 🌐
-- **[Project Gamma](https://github.com/ayoub-ld/project-gamma):** An open-source project dedicated to automating workflows using DevOps practices. 🤝
-
-_For more projects, feel free to check out my [GitHub repositories](https://github.com/ayoub-ld)._
+_Feel free to check out my [GitHub repositories](https://github.com/ayoub-ld)._
 
 ---
 
