@@ -30,7 +30,7 @@ I enjoy solving challenging problems, collaborating with creative minds, and con
 
 ## Notable Projects
 
-_Feel free to check out my [GitHub repositories](https://github.com/ayoub-ld)._
+_Feel free to check out my [GitHub repositories](https://github.com/ayoub-ld?tab=repositories)._
 
 ---
 
